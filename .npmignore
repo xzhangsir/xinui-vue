@@ -1,0 +1,11 @@
+.*
+*.md
+*.yml
+node_modules/
+src/
+packages/
+public/
+docs/
+arc/
+index.html
+ 
